@@ -3,7 +3,7 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Hola!! Soy Tomas Modestti estudiante de Ingenieria Informatica.
 
 ### Portfolio: https://brdhanani.github.io
 
